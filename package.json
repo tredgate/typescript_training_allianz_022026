@@ -1,0 +1,30 @@
+{
+  "name": "typescript_training_allianz_022026",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tredgate/typescript_training_allianz_022026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tredgate/typescript_training_allianz_022026/issues"
+  },
+  "homepage": "https://github.com/tredgate/typescript_training_allianz_022026#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "eslint-config-prettier": "^10.1.8",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.54.0"
+  },
+  "dependencies": {
+    "tsx": "^4.21.0"
+  }
+}
